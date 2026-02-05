@@ -2,7 +2,7 @@ monkey.d.luffy
 zoro
 nami
 usopp
-sanji
+sanji_kun
 robin
 chopper
 franky
