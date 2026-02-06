@@ -1,2 +1,4 @@
 hello mercury
 hello python
+hello world
+hello java
