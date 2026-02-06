@@ -1,3 +1,12 @@
+how are you ?
 i hello
 hi hello
 how are you ?
+i am fine
+how are you ?
+0-2 15rupees for customer 22 for partner
+2-5  6rupees for customer 10 for partner
+5-7  5rupees for customer  5 for partner
+7-15 8rupees for customer 6 for partner
+difference distance bro 1.5, 2.5, 5.4, 7.7, 6.7km. calcualte for both customer and partner
+
